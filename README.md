@@ -48,7 +48,7 @@
 ### Option 1: Run from Source
 1. Clone the repository:
 ```bash
-git clone <https://github.com/Khubaib8281/confiDetect.git>
+git clone <https://github.com/Khubaib8281/ConfiDetect.git>
 ```
 2. Install dependencies:
 ```bash
@@ -106,7 +106,7 @@ ConfiDetect was created to help individuals objectively measure their confidence
 
 ## License
 
-[MIT License](LICENSE)
+[Apache 2.0 lisence](LICENSE)
 
 ---
 
